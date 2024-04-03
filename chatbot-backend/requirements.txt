@@ -1,0 +1,6 @@
+Django==5.0.3
+mysqlclient==2.2.4
+djangorestframework==3.15.1
+channels==3.0.5
+chatterbot==1.0.5
+chatterbot_corpus==1.2.0
